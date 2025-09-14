@@ -29,8 +29,11 @@ export default function RootLayout({
                   content="we're building a protocol for large language models to directly interface with image sensors."
               />
               <meta property="og:title" content="jpglab" />
-              <meta property="og:description" content="we're building a protocol for large language models to directly interface with image sensors." />
-              <meta property="og:image" content="/og.png" />
+              <meta
+                  property="og:description"
+                  content="we're building a protocol for large language models to directly interface with image sensors."
+              />
+              <meta property="og:image" content="https://jpglab.ai/og.png" />
               <meta property="og:type" content="website" />
               <meta property="og:url" content="https://jpglab.ai" />
               <meta name="twitter:card" content="summary_large_image" />
