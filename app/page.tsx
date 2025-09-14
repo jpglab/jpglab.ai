@@ -6,7 +6,7 @@ export default function Home() {
           {/* Logo in upper left */}
           <div className="absolute top-0 left-0 z-[1000] text-white gap-[12px] flex items-center p-[28px]">
               <img src="/jpglab.png" alt="jpglab" className="w-[28px] h-[28px] object-contain" />
-              <div className="text-[28px] font-jersey leading-none mt-[-10px]">jpglab</div>
+              <div className="text-[28px] font-jersey leading-none mt-[-4px]">jpglab</div>
           </div>
 
 
