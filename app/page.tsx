@@ -12,14 +12,14 @@ export default function Home() {
 
           {/* GitHub link in center */}
           <div className="absolute top-0 left-0 z-[1000] w-full h-full flex flex-col items-center justify-center">
-          <h2 className="text-white text-lg font-jersey leading-none p-8 max-w-[400px] text-balance text-center">we're building a protocol for large language models to directly interface with image sensors.</h2>
+          <h2 className="text-white text-[28px] font-jersey leading-none p-8 max-w-[400px] text-balance text-center">we're building a protocol for large language models to directly interface with image sensors.</h2>
               <a
                   href="https://github.com/jpglab"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-zinc-900 py-3 px-6 rounded-xl border border-zinc-700 flex flex-col items-center gap-4"
               >
-                  <svg width="24" height="24" viewBox="0 0 98 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <svg width="28" height="28" viewBox="0 0 98 96" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <g clipPath="url(#clip0_3_12)">
                           <path
                               fillRule="evenodd"
@@ -34,7 +34,7 @@ export default function Home() {
                           </clipPath>
                       </defs>
                   </svg>
-                  <p className="text-white text-lg font-jersey leading-none">github</p>
+                  <p className="text-white text-[28px] font-jersey leading-none">github</p>
               </a>
           </div>
 
